@@ -22,7 +22,6 @@ Q5:Introduction to Tag and Attributes:
 
 
         -Single body tag: are used to display content or send command.
-
         <tagneme Attributes=""/>
 
 
@@ -46,12 +45,11 @@ Q8: How to add Favicon?
     -Favicon is an external resource,So we nedd to specify href Attributes.
 
     <link rel="icon" type="images/x-icon" href="favicon.ico">
-
     -http://www.favicon-generator.org/
 
 
 Q8: Introduction to meta Tags?
-        -Metadata is used by browsers(how to display content or reload page), and other web serbices.
+        -Metadata is used by browsers(how to display content or reload page), and other web services.
 
 -Structure of Meta Tags:There are three types of meta tags:
 
@@ -66,6 +64,3 @@ Q9:Visible Part of the Web?
 
 Q10:What is "px" Bro?
     Pixels,abbreviated as "px" ,are also a unit of measurement commonly used in graphic and web design, equivalent to roughly 1/96 inch(0.26mm).
-
-
-
