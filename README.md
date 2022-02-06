@@ -31,7 +31,6 @@
 
 ✅ Images
 
-#### Today, I have learned:
 ✅ Create First HTML File
 
 ✅ Basic Structure of HTML
@@ -90,7 +89,6 @@
 
 ✅ Emojis in HTML
 
-#### Today, I have learned:
 ✅ Semantic Elements
 
 ✅ HTML Image Maps
